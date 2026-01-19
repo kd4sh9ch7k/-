@@ -50,7 +50,7 @@ bash
 pip install -r requirements.txt
 Запустите игру:
 
-```bash
+bash
 python main.py
 Запуск через Docker
 Соберите Docker образ:

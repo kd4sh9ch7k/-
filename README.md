@@ -6,15 +6,25 @@
 .
 ├── src/
 │ └── game.py # Основная логика игры
+
 ├── main.py # Точка входа
+
 ├── words.txt # Файл со словами для игры
+
 ├── Dockerfile # Конфигурация Docker
+
 ├── docker-compose.yml # Docker Compose конфигурация
+
 ├── requirements.txt # Зависимости Python
+
 ├── .pre-commit-config.yaml # Конфигурация pre-commit
+
 ├── .gitignore # Игнорируемые файлы Git
+
 ├── pyproject.toml # Конфигурация Python инструментов
+
 └── README.md # Документация
+
 
 text
 

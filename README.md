@@ -54,12 +54,11 @@ pip install -r requirements.txt
 python main.py
 Запуск через Docker
 Соберите Docker образ:
-```
 ``` bash
 docker build -t hangman-game .
 Запустите контейнер:
 ````
-`` bash
+ bash
 docker run -it --rm hangman-game
 Запуск через Docker Compose
 bash

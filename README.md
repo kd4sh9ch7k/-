@@ -43,6 +43,7 @@ cd hangman-game
 ```bash
 python -m venv venv
 source venv/bin/activate  # На Windows: venv\Scripts\activate
+```
 Установите зависимости:
 
 bash
